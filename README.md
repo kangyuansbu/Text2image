@@ -4,3 +4,4 @@ This project can systhesis image from a descriptive text by implementing the GAN
 This project is based on https://github.com/zsdonghao/text-to-image
 
 One sample result is shown blow:
+![sample_result](https://user-images.githubusercontent.com/57405606/112554223-46f7ed80-8d9c-11eb-8565-1cbc8064313f.png)
